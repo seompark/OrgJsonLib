@@ -1,0 +1,5 @@
+name: OrgJsonLib
+author: 110EIm
+version: "1.0.0-SNAPSHOT"
+api: ["1.0.0"]
+main: kr.mohi.orgjsonlib.OrgJsonLib
